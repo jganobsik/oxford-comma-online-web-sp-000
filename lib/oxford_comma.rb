@@ -9,5 +9,5 @@ def oxford_comma(array)
   array.pop
   array << with_and
   array.join(" ,")
-  
+end
 end
